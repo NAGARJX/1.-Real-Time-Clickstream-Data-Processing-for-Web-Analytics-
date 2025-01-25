@@ -11,6 +11,9 @@ Modern businesses need real-time insights into user behavior to drive decisions 
 Real-time processing of high-velocity click data streams.
 Event aggregation to compute metrics like clicks per URL and session activity.
 Scalable architecture that can handle increasing loads by leveraging Kafka's distributed capabilities.
+
+![image](https://github.com/user-attachments/assets/85ef02c3-fd10-436d-ab67-ec9a97c1159e)
+
 ## Features
 Real-Time Data Pipeline: Ingest, process, and analyze user clickstream data on the fly.
 
